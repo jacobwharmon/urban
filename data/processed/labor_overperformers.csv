@@ -1,81 +1,81 @@
 schools,us_overall_rank,us_labor_rank,rank_diff
-"Economics Department, Darla Moore School of Business, University of South CarolinaColumbia, South Carolina (USA)",109,71.0,38.0
-"Department of Finance and Business Economics, Marshall School of Business, University of Southern CaliforniaLos Angeles, California (USA)",64,33.0,31.0
-"Department of Economics, Wellesley CollegeWellesley, Massachusetts (USA)",83,67.0,16.0
-"Department of Economics, University of Texas-AustinAustin, Texas (USA)",36,21.0,15.0
-"Department of Economics, Cornell UniversityIthaca, New York (USA)",27,14.0,13.0
-"Economics Department, Eller College of Management, University of ArizonaTucson, Arizona (USA)",70,58.0,12.0
-"Department of Economics, University of California-IrvineIrvine, California (USA)",29,19.0,10.0
-"Economics Department, University of MichiganAnn Arbor, Michigan (USA)",18,11.0,7.0
-"Economics Department, Dartmouth CollegeHanover, New Hampshire (USA)",13,6.0,7.0
-"Department of Economics, George Washington UniversityWashington, District of Columbia (USA)",46,40.0,6.0
-"Department of Economics, Colgate UniversityHamilton, New York (USA)",129,125.0,4.0
-"Economics Department, Barnard College, Columbia UniversityNew York City, New York (USA)",115,111.0,4.0
-"Department of Economics, State University of New York-Albany (SUNY)Albany, New York (USA)",110,106.0,4.0
-"Department of Economics, Andrew Young School of Policy Studies, Georgia State UniversityAtlanta, Georgia (USA)",45,43.0,2.0
+"Economics Department, Darla Moore School of Business, University of South CarolinaColumbia, South Carolina (USA)",109,66.0,43.0
+"Department of Finance and Business Economics, Marshall School of Business, University of Southern CaliforniaLos Angeles, California (USA)",64,31.0,33.0
+"Department of Economics, Colgate UniversityHamilton, New York (USA)",129,106.0,23.0
+"Department of Economics, Wellesley CollegeWellesley, Massachusetts (USA)",83,62.0,21.0
+"Department of Economics, State University of New York-Albany (SUNY)Albany, New York (USA)",110,90.0,20.0
+"Economics Department, Barnard College, Columbia UniversityNew York City, New York (USA)",115,95.0,20.0
+"Economics Department, Eller College of Management, University of ArizonaTucson, Arizona (USA)",70,53.0,17.0
+"Department of Economics, University of Texas-AustinAustin, Texas (USA)",36,19.0,17.0
+"Department of Economics, Cornell UniversityIthaca, New York (USA)",27,13.0,14.0
+"Department of Economics, University of California-IrvineIrvine, California (USA)",29,17.0,12.0
+"Department of Economics, George Washington UniversityWashington, District of Columbia (USA)",46,36.0,10.0
+"Economics Department, Dartmouth CollegeHanover, New Hampshire (USA)",13,5.0,8.0
+"Economics Department, University of MichiganAnn Arbor, Michigan (USA)",18,10.0,8.0
+"Department of Economics, Andrew Young School of Policy Studies, Georgia State UniversityAtlanta, Georgia (USA)",45,39.0,6.0
+"Carol Martin Gatton College of Business and Economics, University of KentuckyLexington, Kentucky (USA)",56,51.0,5.0
 "Department of Economics, University of ChicagoChicago, Illinois (USA)",4,3.0,1.0
-"Carol Martin Gatton College of Business and Economics, University of KentuckyLexington, Kentucky (USA)",56,56.0,0.0
+"Department of Economics, Brigham Young UniversityProvo, Utah (USA)",95,94.0,1.0
+"Economics Department, Georgetown UniversityWashington, District of Columbia (USA)",26,27.0,-1.0
+"Department of Economics, University of MarylandCollege Park, Maryland (USA)",28,29.0,-1.0
 "Department of Economics, Harvard UniversityCambridge, Massachusetts (USA)",1,2.0,-1.0
+"Economics Department, University of California-DavisDavis, California (USA)",20,21.0,-1.0
 "Economics Department, Massachusetts Institute of Technology (MIT)Cambridge, Massachusetts (USA)",2,4.0,-2.0
-"Economics Department, University of California-DavisDavis, California (USA)",20,23.0,-3.0
-"Department of Economics, Stanford UniversityStanford, California (USA)",6,9.0,-3.0
-"Economics Department, Georgetown UniversityWashington, District of Columbia (USA)",26,29.0,-3.0
-"Department of Economics, University of MarylandCollege Park, Maryland (USA)",28,31.0,-3.0
-"Economics Department, Yale UniversityNew Haven, Connecticut (USA)",8,12.0,-4.0
-"Department of Economics, University of California-BerkeleyBerkeley, California (USA)",3,7.0,-4.0
-"Department of Economics, New York University (NYU)New York City, New York (USA)",10,15.0,-5.0
-"Economics Department, Michigan State UniversityEast Lansing, Michigan (USA)",23,30.0,-7.0
-"Economics Department, Brown UniversityProvidence, Rhode Island (USA)",9,16.0,-7.0
-"Department of Economics, Princeton UniversityPrinceton, New Jersey (USA)",5,13.0,-8.0
-"Department of Economics, School of Arts and Sciences, Columbia UniversityNew York City, New York (USA)",7,17.0,-10.0
-"Department of Economics, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",12,22.0,-10.0
-"Department of Economics, University of California-Los Angeles (UCLA)Los Angeles, California (USA)",17,28.0,-11.0
-"Department of Economics, University of California-San Diego (UCSD)La Jolla, California (USA)",14,27.0,-13.0
-"Department of Economics, Boston UniversityBoston, Massachusetts (USA)",11,25.0,-14.0
-"Department of Economics, University of Notre DameSouth Bend, Indiana (USA)",35,50.0,-15.0
-"Department of Economics, Brigham Young UniversityProvo, Utah (USA)",95,110.0,-15.0
-"Department of Economics, W.P. Carey School of Business, Arizona State UniversityTempe, Arizona (USA)",32,48.0,-16.0
-"Economics Department, University of Wisconsin-MadisonMadison, Wisconsin (USA)",22,39.0,-17.0
-"Department of Economics, University of California-Santa Barbara (UCSB)Santa Barbara, California (USA)",31,49.0,-18.0
-"Department of Economics, Ohio State UniversityColumbus, Ohio (USA)",40,60.0,-20.0
-"Department of Economics, University of Massachusetts-AmherstAmherst, Massachusetts (USA)",102,127.0,-25.0
-"Department of Economics, University of HoustonHouston, Texas (USA)",67,97.0,-30.0
-"Department of Economics, Rutgers University-New BrunswickNew Brunswick, New Jersey (USA)",39,69.0,-30.0
-"Department of Economics, Tufts UniversityMedford, Massachusetts (USA)",62,93.0,-31.0
-"Department of Economics, University of Southern CaliforniaLos Angeles, California (USA)",16,47.0,-31.0
-"Department of Economics, University of ConnecticutStorrs, Connecticut (USA)",58,90.0,-32.0
-"Department of Economics, University of PittsburghPittsburgh, Pennsylvania (USA)",49,82.0,-33.0
-"Department of Economics, Graduate Center, City University of New York (CUNY)New York City, New York (USA)",85,118.0,-33.0
-"Department of Economics, University of MinnesotaMinneapolis, Minnesota (USA)",37,70.0,-33.0
-"Department of Economics, Johns Hopkins UniversityBaltimore, Maryland (USA)",33,68.0,-35.0
-"Department of Economics, Duke UniversityDurham, North Carolina (USA)",24,61.0,-37.0
-"Department of Economics, Northwestern UniversityEvanston, Illinois (USA)",15,53.0,-38.0
-"Department of Economics, Terry College of Business, University of GeorgiaAthens, Georgia (USA)",78,116.0,-38.0
-"Department of Economics, University of VirginiaCharlottesville, Virginia (USA)",38,78.0,-40.0
-"Department of Economics, Washington University in St. LouisSt. Louis, Missouri (USA)",43,84.0,-41.0
-"Department of Economics, Pennsylvania State UniversityState College, Pennsylvania (USA)",30,73.0,-43.0
-"Department of Economics, University of ColoradoBoulder, Colorado (USA)",41,86.0,-45.0
-"Economics Department, University of WisconsinMilwaukee, Wisconsin (USA)",88,134.0,-46.0
-"Economics Department, Williams CollegeWilliamstown, Massachusetts (USA)",48,96.0,-48.0
-"Department of Economics, University of Illinois at ChicagoChicago, Illinois (USA)",77,128.0,-51.0
-"Economics Department, University of California-Santa Cruz (UCSC)Santa Cruz, California (USA)",42,94.0,-52.0
-"Department of Economics, Texas A&M UniversityCollege Station, Texas (USA)",47,105.0,-58.0
-"Department of Economics, Middlebury CollegeMiddlebury, Vermont (USA)",98,158.0,-60.0
-"Department of Economics, Boston CollegeChestnut Hill, Massachusetts (USA)",21,83.0,-62.0
-"Department of Economics, State University of New York-Binghamton (SUNY)Binghamton, New York (USA)",87,151.0,-64.0
-"Department of Economics, University of Illinois at Urbana-ChampaignUrbana-Champaign, Illinois (USA)",66,132.0,-66.0
-"Department of Economics, Maxwell School, Syracuse UniversitySyracuse, New York (USA)",68,135.0,-67.0
-"Economics Department, University of MissouriColumbia, Missouri (USA)",69,143.0,-74.0
-"Department of Economics, Iowa State UniversityAmes, Iowa (USA)",50,126.0,-76.0
-"Department of Economics, University of OregonEugene, Oregon (USA)",55,137.0,-82.0
-"Department of Economics, Lerner College of Business and Economics, University of DelawareNewark, Delaware (USA)",75,159.0,-84.0
-"Department of Economics, Krannert School of Management, Purdue UniversityWest Lafayette, Indiana (USA)",63,147.0,-84.0
-"Economics Department, University of RochesterRochester, New York (USA)",65,155.0,-90.0
-"Department of Economics, Florida State UniversityTallahassee, Florida (USA)",73,166.0,-93.0
-"Economics Department, Stern School of Business, New York University (NYU)New York City, New York (USA)",34,130.0,-96.0
-"Department of Economics, Vanderbilt UniversityNashville, Tennessee (USA)",25,122.0,-97.0
-"Department of Economics, Emory UniversityAtlanta, Georgia (USA)",59,170.0,-111.0
-"Finance and Economics Department, Graduate School of Business, Columbia UniversityNew York City, New York (USA)",19,140.0,-121.0
+"Department of Economics, Stanford UniversityStanford, California (USA)",6,8.0,-2.0
+"Economics Department, Yale UniversityNew Haven, Connecticut (USA)",8,11.0,-3.0
+"Department of Economics, University of California-BerkeleyBerkeley, California (USA)",3,6.0,-3.0
+"Department of Economics, New York University (NYU)New York City, New York (USA)",10,14.0,-4.0
+"Economics Department, Michigan State UniversityEast Lansing, Michigan (USA)",23,28.0,-5.0
+"Economics Department, Brown UniversityProvidence, Rhode Island (USA)",9,15.0,-6.0
+"Department of Economics, University of Massachusetts-AmherstAmherst, Massachusetts (USA)",102,108.0,-6.0
+"Department of Economics, Princeton UniversityPrinceton, New Jersey (USA)",5,12.0,-7.0
+"Department of Economics, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",12,20.0,-8.0
+"Department of Economics, University of California-Los Angeles (UCLA)Los Angeles, California (USA)",17,26.0,-9.0
+"Department of Economics, School of Arts and Sciences, Columbia UniversityNew York City, New York (USA)",7,16.0,-9.0
+"Department of Economics, University of Notre DameSouth Bend, Indiana (USA)",35,45.0,-10.0
+"Department of Economics, W.P. Carey School of Business, Arizona State UniversityTempe, Arizona (USA)",32,43.0,-11.0
+"Department of Economics, University of California-San Diego (UCSD)La Jolla, California (USA)",14,25.0,-11.0
+"Department of Economics, Boston UniversityBoston, Massachusetts (USA)",11,23.0,-12.0
+"Department of Economics, University of California-Santa Barbara (UCSB)Santa Barbara, California (USA)",31,44.0,-13.0
+"Economics Department, University of Wisconsin-MadisonMadison, Wisconsin (USA)",22,35.0,-13.0
+"Department of Economics, Ohio State UniversityColumbus, Ohio (USA)",40,55.0,-15.0
+"Department of Economics, University of HoustonHouston, Texas (USA)",67,83.0,-16.0
+"Department of Economics, Graduate Center, City University of New York (CUNY)New York City, New York (USA)",85,102.0,-17.0
+"Department of Economics, Tufts UniversityMedford, Massachusetts (USA)",62,79.0,-17.0
+"Department of Economics, University of ConnecticutStorrs, Connecticut (USA)",58,78.0,-20.0
+"Department of Economics, Terry College of Business, University of GeorgiaAthens, Georgia (USA)",78,100.0,-22.0
+"Department of Economics, University of PittsburghPittsburgh, Pennsylvania (USA)",49,73.0,-24.0
+"Department of Economics, Rutgers University-New BrunswickNew Brunswick, New Jersey (USA)",39,64.0,-25.0
+"Department of Economics, University of Southern CaliforniaLos Angeles, California (USA)",16,42.0,-26.0
+"Economics Department, University of WisconsinMilwaukee, Wisconsin (USA)",88,115.0,-27.0
+"Department of Economics, University of MinnesotaMinneapolis, Minnesota (USA)",37,65.0,-28.0
+"Department of Economics, Johns Hopkins UniversityBaltimore, Maryland (USA)",33,63.0,-30.0
+"Department of Economics, Washington University in St. LouisSt. Louis, Missouri (USA)",43,75.0,-32.0
+"Department of Economics, University of VirginiaCharlottesville, Virginia (USA)",38,70.0,-32.0
+"Department of Economics, Duke UniversityDurham, North Carolina (USA)",24,56.0,-32.0
+"Department of Economics, University of Illinois at ChicagoChicago, Illinois (USA)",77,109.0,-32.0
+"Department of Economics, Northwestern UniversityEvanston, Illinois (USA)",15,48.0,-33.0
+"Economics Department, Williams CollegeWilliamstown, Massachusetts (USA)",48,82.0,-34.0
+"Department of Economics, University of ColoradoBoulder, Colorado (USA)",41,77.0,-36.0
+"Department of Economics, Middlebury CollegeMiddlebury, Vermont (USA)",98,135.0,-37.0
+"Economics Department, University of California-Santa Cruz (UCSC)Santa Cruz, California (USA)",42,80.0,-38.0
+"Department of Economics, Pennsylvania State UniversityState College, Pennsylvania (USA)",30,68.0,-38.0
+"Department of Economics, Texas A&M UniversityCollege Station, Texas (USA)",47,89.0,-42.0
+"Department of Economics, State University of New York-Binghamton (SUNY)Binghamton, New York (USA)",87,129.0,-42.0
+"Department of Economics, University of Illinois at Urbana-ChampaignUrbana-Champaign, Illinois (USA)",66,113.0,-47.0
+"Department of Economics, Maxwell School, Syracuse UniversitySyracuse, New York (USA)",68,116.0,-48.0
+"Department of Economics, Boston CollegeChestnut Hill, Massachusetts (USA)",21,74.0,-53.0
+"Economics Department, University of MissouriColumbia, Missouri (USA)",69,124.0,-55.0
+"Department of Economics, Iowa State UniversityAmes, Iowa (USA)",50,107.0,-57.0
+"Department of Economics, Lerner College of Business and Economics, University of DelawareNewark, Delaware (USA)",75,136.0,-61.0
+"Department of Economics, Krannert School of Management, Purdue UniversityWest Lafayette, Indiana (USA)",63,126.0,-63.0
+"Department of Economics, University of OregonEugene, Oregon (USA)",55,118.0,-63.0
+"Department of Economics, Florida State UniversityTallahassee, Florida (USA)",73,141.0,-68.0
+"Economics Department, University of RochesterRochester, New York (USA)",65,133.0,-68.0
+"Economics Department, Stern School of Business, New York University (NYU)New York City, New York (USA)",34,111.0,-77.0
+"Department of Economics, Vanderbilt UniversityNashville, Tennessee (USA)",25,104.0,-79.0
+"Department of Economics, Emory UniversityAtlanta, Georgia (USA)",59,145.0,-86.0
+"Finance and Economics Department, Graduate School of Business, Columbia UniversityNew York City, New York (USA)",19,121.0,-102.0
 "Department of Economics, University of WashingtonSeattle, Washington (USA)",44,,
 "Division of Social Sciences, California Institute of TechnologyPasadena, California (USA)",51,,
 "Economics Department, George Mason UniversityFairfax, Virginia (USA)",52,,

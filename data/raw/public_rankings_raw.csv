@@ -23,88 +23,80 @@
 21,"Department of Business Economics and Public Policy, Ross School of Business, University of MichiganAnn Arbor, Michigan (USA)",29,22
 22,"Department of Economics, Boston UniversityBoston, Massachusetts (USA)",32,23
 23,"Economics Department, Georgetown UniversityWashington, District of Columbia (USA)",40,24
-24,"Federal Reserve Bank of MinneapolisMinneapolis, Minnesota (USA)",42,25
-25,"Department of Economics, Andrew Young School of Policy Studies, Georgia State UniversityAtlanta, Georgia (USA)",43,26
-26,"Hoover Institution on War Revolution & Peace, Stanford UniversityStanford, California (USA)",46,27
-27,"Harvard Business School, Harvard UniversityCambridge, Massachusetts (USA)",47,28
-28,"Department of Economics, Northwestern UniversityEvanston, Illinois (USA)",48,29
-29,"Wharton School of Business, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",49,30
-30,"Department of Economics, Princeton UniversityPrinceton, New Jersey (USA)",50,31
-31,"Department of Economics, Duke UniversityDurham, North Carolina (USA)",58,32
-32,"Department of Economics, Vanderbilt UniversityNashville, Tennessee (USA)",60,33
-33,"International Center for Public Policy, Department of Economics, Andrew Young School of Policy Studies, Georgia State UniversityAtlanta, Georgia (USA)",62,34
-34,"Department of Economics, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",63,35
-35,"Harris School of Public Policy, University of ChicagoChicago, Illinois (USA)",65,36
-36,"Department of Economics, New York University (NYU)New York City, New York (USA)",67,37
-37,"World Bank GroupWashington, District of Columbia (USA)",69,38
-38,"Peter G. Peterson Institute for International Economics (IIE)Washington, District of Columbia (USA)",71,39
-39,"Department of Economics, University of MinnesotaMinneapolis, Minnesota (USA)",73,40
-40,"Federal Reserve Board (Board of Governors of the Federal Reserve System)Washington, District of Columbia (USA)",75,41
-41,"Brookings InstitutionWashington, District of Columbia (USA)",81,42
-42,"Department of Economics, W.P. Carey School of Business, Arizona State UniversityTempe, Arizona (USA)",82,43
-43,"W.P. Carey School of Business, Arizona State UniversityTempe, Arizona (USA)",83,44
-44,"Economics Department, Brown UniversityProvidence, Rhode Island (USA)",85,45
-45,"Division of Social Sciences, California Institute of TechnologyPasadena, California (USA)",87,46
-46,"Department of Economics, University of California-IrvineIrvine, California (USA)",89,47
-47,"Department of Economics, University of Illinois at ChicagoChicago, Illinois (USA)",90,48
-48,"Research Department, Federal Reserve Bank of MinneapolisMinneapolis, Minnesota (USA)",91,49
-49,"Walter A. Haas School of Business, University of California-BerkeleyBerkeley, California (USA)",92,50
-50,"Federal Reserve Bank of St. LouisSt. Louis, Missouri (USA)",93,51
-51,"Stern School of Business, New York University (NYU)New York City, New York (USA)",94,52
-52,"Economics Department, Stern School of Business, New York University (NYU)New York City, New York (USA)",95,53
-53,"Research Division, Federal Reserve Bank of St. LouisSt. Louis, Missouri (USA)",100,54
-54,"Department of Economics, Washington University in St. LouisSt. Louis, Missouri (USA)",102,55
-55,"Warrington College of Business, University of FloridaGainesville, Florida (USA)",103,56
-56,"Department of Economics, University of Illinois at Urbana-ChampaignUrbana-Champaign, Illinois (USA)",104,57
-57,"Federal Reserve Bank of DallasDallas, Texas (USA)",111,58
-58,"Department of Economics, Rice UniversityHouston, Texas (USA)",112,59
-59,"Department of Policy Analysis and Management, College of Human Ecology, Cornell UniversityIthaca, New York (USA)",113,60
-60,"Department of Economics, Carol Martin Gatton College of Business and Economics, University of KentuckyLexington, Kentucky (USA)",114,61
-61,"Carol Martin Gatton College of Business and Economics, University of KentuckyLexington, Kentucky (USA)",115,62
-62,"Department of Economics, Boston CollegeChestnut Hill, Massachusetts (USA)",117,63
-63,"Economic Studies, Brookings InstitutionWashington, District of Columbia (USA)",118,64
-64,"Economics Department, Williams CollegeWilliamstown, Massachusetts (USA)",119,65
-65,"Economics Department, Yale UniversityNew Haven, Connecticut (USA)",124,66
-66,"Department of Economics, Florida State UniversityTallahassee, Florida (USA)",125,67
-67,"Tepper School of Business Administration, Carnegie Mellon UniversityPittsburgh, Pennsylvania (USA)",126,68
-68,"Department of Economics, Tepper School of Business Administration, Carnegie Mellon UniversityPittsburgh, Pennsylvania (USA)",129,69
-69,"Economics Department, University of California-Santa Cruz (UCSC)Santa Cruz, California (USA)",130,70
-70,"Economics Department, University of RochesterRochester, New York (USA)",131,71
-71,"Federal Reserve Bank of ChicagoChicago, Illinois (USA)",132,72
-72,"Business, Government and the International Economy (BGIE) Unit, Harvard Business School, Harvard UniversityCambridge, Massachusetts (USA)",135,73
-73,"Economic Research Department, Federal Reserve Bank of DallasDallas, Texas (USA)",138,74
-74,"Department of Economics, University of California-RiversideRiverside, California (USA)",143,75
-75,"Department of Economics, Tufts UniversityMedford, Massachusetts (USA)",148,76
-76,"Economics Department, University of California-DavisDavis, California (USA)",150,77
-77,"Department of Economics, University of California-Santa Barbara (UCSB)Santa Barbara, California (USA)",156,78
-78,"Kellogg Graduate School of Management, Northwestern UniversityEvanston, Illinois (USA)",162,79
-79,"Finance Department, Wharton School of Business, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",163,80
-80,"Economics Department, Stony Brook University - SUNYStony Brook, New York (USA)",164,81
-81,"Department of Economics, Indiana UniversityBloomington, Indiana (USA)",166,82
-82,"Department of Economics, University of VirginiaCharlottesville, Virginia (USA)",168,83
-83,"Office of Management & Budget, Government of the United StatesWashington, District of Columbia (USA)",169,84
-84,"Department of Economics, School of Business, University of MiamiCoral Gables, Florida (USA)",171,85
-85,"School of Business, University of MiamiCoral Gables, Florida (USA)",172,86
-86,"Department of Economics, University of Notre DameSouth Bend, Indiana (USA)",175,87
-87,"College of Business, University of Illinois at Urbana-ChampaignUrbana-Champaign, Illinois (USA)",180,88
-88,"Department of Economics, Rutgers University-New BrunswickNew Brunswick, New Jersey (USA)",184,89
-89,"Economics Department, University of FloridaGainesville, Florida (USA)",190,90
-90,"Economics Department, George Mason UniversityFairfax, Virginia (USA)",193,91
-91,"Department of Finance, Kellogg Graduate School of Management, Northwestern UniversityEvanston, Illinois (USA)",195,92
-92,"Department of Economics, Finance and Legal Studies, Culverhouse College of Business, University of Alabama-TuscaloosaTuscaloosa, Alabama (USA)",196,93
-93,"Culverhouse College of Business, University of Alabama-TuscaloosaTuscaloosa, Alabama (USA)",197,94
-94,"Institute for Policy Research (IPR), Northwestern UniversityEvanston, Illinois (USA)",200,95
-95,"American Enterprise InstituteWashington, District of Columbia (USA)",210,96
-96,"Department of Economics, University of WashingtonSeattle, Washington (USA)",212,97
-97,"Department of Agricultural and Resource Economics, University of MarylandCollege Park, Maryland (USA)",214,98
-98,"Marshall School of Business, University of Southern CaliforniaLos Angeles, California (USA)",215,99
-99,"Department of Economics, International Business School, Brandeis UniversityWaltham, Massachusetts (USA)",217,100
-100,"Department of Economics, Ohio State UniversityColumbus, Ohio (USA)",220,101
-101,"Department of Economics, University of California-Los Angeles (UCLA)Los Angeles, California (USA)",224,102
-102,"Paul Merage School of Business, University of California-IrvineIrvine, California (USA)",225,103
-103,"School of International and Public Affairs (SIPA), Columbia UniversityNew York City, New York (USA)",231,104
-104,"Department of Finance, College of Business Administration, University of Illinois at ChicagoChicago, Illinois (USA)",233,105
-105,"College of Business Administration, University of Illinois at ChicagoChicago, Illinois (USA)",234,106
-106,"Department of Economics, University of OregonEugene, Oregon (USA)",235,107
-107,"International Economics Department, School of Advanced International Studies, Johns Hopkins UniversityWashington, District of Columbia (USA)",236,108
-108,"Goldman School of Public Policy, University of California-BerkeleyBerkeley, California (USA)",239,109
+24,"Department of Economics, Andrew Young School of Policy Studies, Georgia State UniversityAtlanta, Georgia (USA)",43,25
+25,"Hoover Institution on War Revolution & Peace, Stanford UniversityStanford, California (USA)",46,26
+26,"Harvard Business School, Harvard UniversityCambridge, Massachusetts (USA)",47,27
+27,"Department of Economics, Northwestern UniversityEvanston, Illinois (USA)",48,28
+28,"Wharton School of Business, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",49,29
+29,"Department of Economics, Princeton UniversityPrinceton, New Jersey (USA)",50,30
+30,"Department of Economics, Duke UniversityDurham, North Carolina (USA)",58,31
+31,"Department of Economics, Vanderbilt UniversityNashville, Tennessee (USA)",60,32
+32,"International Center for Public Policy, Department of Economics, Andrew Young School of Policy Studies, Georgia State UniversityAtlanta, Georgia (USA)",62,33
+33,"Department of Economics, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",63,34
+34,"Harris School of Public Policy, University of ChicagoChicago, Illinois (USA)",65,35
+35,"Department of Economics, New York University (NYU)New York City, New York (USA)",67,36
+36,"Peter G. Peterson Institute for International Economics (IIE)Washington, District of Columbia (USA)",71,37
+37,"Department of Economics, University of MinnesotaMinneapolis, Minnesota (USA)",73,38
+38,"Federal Reserve Board (Board of Governors of the Federal Reserve System)Washington, District of Columbia (USA)",75,39
+39,"Brookings InstitutionWashington, District of Columbia (USA)",81,40
+40,"Department of Economics, W.P. Carey School of Business, Arizona State UniversityTempe, Arizona (USA)",82,41
+41,"W.P. Carey School of Business, Arizona State UniversityTempe, Arizona (USA)",83,42
+42,"Economics Department, Brown UniversityProvidence, Rhode Island (USA)",85,43
+43,"Division of Social Sciences, California Institute of TechnologyPasadena, California (USA)",87,44
+44,"Department of Economics, University of California-IrvineIrvine, California (USA)",89,45
+45,"Department of Economics, University of Illinois at ChicagoChicago, Illinois (USA)",90,46
+46,"Walter A. Haas School of Business, University of California-BerkeleyBerkeley, California (USA)",92,47
+47,"Stern School of Business, New York University (NYU)New York City, New York (USA)",94,48
+48,"Economics Department, Stern School of Business, New York University (NYU)New York City, New York (USA)",95,49
+49,"Department of Economics, Washington University in St. LouisSt. Louis, Missouri (USA)",102,50
+50,"Warrington College of Business, University of FloridaGainesville, Florida (USA)",103,51
+51,"Department of Economics, University of Illinois at Urbana-ChampaignUrbana-Champaign, Illinois (USA)",104,52
+52,"Department of Economics, Rice UniversityHouston, Texas (USA)",112,53
+53,"Department of Policy Analysis and Management, College of Human Ecology, Cornell UniversityIthaca, New York (USA)",113,54
+54,"Department of Economics, Carol Martin Gatton College of Business and Economics, University of KentuckyLexington, Kentucky (USA)",114,55
+55,"Carol Martin Gatton College of Business and Economics, University of KentuckyLexington, Kentucky (USA)",115,56
+56,"Department of Economics, Boston CollegeChestnut Hill, Massachusetts (USA)",117,57
+57,"Economic Studies, Brookings InstitutionWashington, District of Columbia (USA)",118,58
+58,"Economics Department, Williams CollegeWilliamstown, Massachusetts (USA)",119,59
+59,"Economics Department, Yale UniversityNew Haven, Connecticut (USA)",124,60
+60,"Department of Economics, Florida State UniversityTallahassee, Florida (USA)",125,61
+61,"Tepper School of Business Administration, Carnegie Mellon UniversityPittsburgh, Pennsylvania (USA)",126,62
+62,"Department of Economics, Tepper School of Business Administration, Carnegie Mellon UniversityPittsburgh, Pennsylvania (USA)",129,63
+63,"Economics Department, University of California-Santa Cruz (UCSC)Santa Cruz, California (USA)",130,64
+64,"Economics Department, University of RochesterRochester, New York (USA)",131,65
+65,"Business, Government and the International Economy (BGIE) Unit, Harvard Business School, Harvard UniversityCambridge, Massachusetts (USA)",135,66
+66,"Department of Economics, University of California-RiversideRiverside, California (USA)",143,67
+67,"Department of Economics, Tufts UniversityMedford, Massachusetts (USA)",148,68
+68,"Economics Department, University of California-DavisDavis, California (USA)",150,69
+69,"Department of Economics, University of California-Santa Barbara (UCSB)Santa Barbara, California (USA)",156,70
+70,"Kellogg Graduate School of Management, Northwestern UniversityEvanston, Illinois (USA)",162,71
+71,"Finance Department, Wharton School of Business, University of PennsylvaniaPhiladelphia, Pennsylvania (USA)",163,72
+72,"Economics Department, Stony Brook University - SUNYStony Brook, New York (USA)",164,73
+73,"Department of Economics, Indiana UniversityBloomington, Indiana (USA)",166,74
+74,"Department of Economics, University of VirginiaCharlottesville, Virginia (USA)",168,75
+75,"Office of Management & Budget, Government of the United StatesWashington, District of Columbia (USA)",169,76
+76,"Department of Economics, School of Business, University of MiamiCoral Gables, Florida (USA)",171,77
+77,"School of Business, University of MiamiCoral Gables, Florida (USA)",172,78
+78,"Department of Economics, University of Notre DameSouth Bend, Indiana (USA)",175,79
+79,"College of Business, University of Illinois at Urbana-ChampaignUrbana-Champaign, Illinois (USA)",180,80
+80,"Department of Economics, Rutgers University-New BrunswickNew Brunswick, New Jersey (USA)",184,81
+81,"Economics Department, University of FloridaGainesville, Florida (USA)",190,82
+82,"Economics Department, George Mason UniversityFairfax, Virginia (USA)",193,83
+83,"Department of Finance, Kellogg Graduate School of Management, Northwestern UniversityEvanston, Illinois (USA)",195,84
+84,"Department of Economics, Finance and Legal Studies, Culverhouse College of Business, University of Alabama-TuscaloosaTuscaloosa, Alabama (USA)",196,85
+85,"Culverhouse College of Business, University of Alabama-TuscaloosaTuscaloosa, Alabama (USA)",197,86
+86,"Institute for Policy Research (IPR), Northwestern UniversityEvanston, Illinois (USA)",200,87
+87,"American Enterprise InstituteWashington, District of Columbia (USA)",210,88
+88,"Department of Economics, University of WashingtonSeattle, Washington (USA)",212,89
+89,"Department of Agricultural and Resource Economics, University of MarylandCollege Park, Maryland (USA)",214,90
+90,"Marshall School of Business, University of Southern CaliforniaLos Angeles, California (USA)",215,91
+91,"Department of Economics, International Business School, Brandeis UniversityWaltham, Massachusetts (USA)",217,92
+92,"Department of Economics, Ohio State UniversityColumbus, Ohio (USA)",220,93
+93,"Department of Economics, University of California-Los Angeles (UCLA)Los Angeles, California (USA)",224,94
+94,"Paul Merage School of Business, University of California-IrvineIrvine, California (USA)",225,95
+95,"School of International and Public Affairs (SIPA), Columbia UniversityNew York City, New York (USA)",231,96
+96,"Department of Finance, College of Business Administration, University of Illinois at ChicagoChicago, Illinois (USA)",233,97
+97,"College of Business Administration, University of Illinois at ChicagoChicago, Illinois (USA)",234,98
+98,"Department of Economics, University of OregonEugene, Oregon (USA)",235,99
+99,"International Economics Department, School of Advanced International Studies, Johns Hopkins UniversityWashington, District of Columbia (USA)",236,100
+100,"Goldman School of Public Policy, University of California-BerkeleyBerkeley, California (USA)",239,101
